@@ -24,8 +24,8 @@ const columns: ColumnsType<Employee> = [
     },
     {
         title: "Адрес",
-        dataIndex: "address",
-        key: "address",
+        dataIndex: "adress",
+        key: "adress",
     },
 ]
 
